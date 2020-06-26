@@ -1,0 +1,7 @@
+credentials.txt
+*.pickle
+*.mp4
+memes/
+__pycache__
+.ipynb_checkpoints
+*.ipynb
